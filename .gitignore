@@ -1,1 +1,2 @@
-python
+# Ignore virtual environment
+venv/
